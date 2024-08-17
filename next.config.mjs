@@ -41,3 +41,4 @@ export default withSentryConfig(nextConfig, {
   // https://vercel.com/docs/cron-jobs
   automaticVercelMonitors: true,
 });
+// "deploy": "gh-pages -d build"
