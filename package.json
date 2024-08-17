@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "vercel --prod"
+    "deploy": "vercel --prod",
+    "export": "next export"
   },
   "dependencies": {
     "@react-three/drei": "^9.109.5",
