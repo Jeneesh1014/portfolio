@@ -203,8 +203,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Associate Developer",
-    desc: "Worked for over a year as an Associate Developer, contributing to various projects with responsibilities in both frontend and backend development as well as UI/UX.",
+    title: "Full Stack Developer",
+    desc: "I have over two years of experience as a full-stack developer, specializing in frontend development with React Native to build responsive and user-friendly mobile applications. Additionally, I’ve integrated backend services using Node.js and managed databases like PostgreSQL and MongoDB, enabling efficient, full-cycle application development.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
